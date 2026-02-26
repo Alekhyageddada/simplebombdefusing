@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+/* Once imported, you can use the font-family property */
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.bomb-app-container{
+    background-image:linear-gradient(to bottom,#eb4034,#eb5e34,#eb7d34);
+    background-size: cover;
+    height:100vh;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bomb-app-heading{
+    font-size: 20px;
+    font-family: "roboto";
+    color:#ffffff;
+}
+
+.input-text{
+    height:30px;
+    width:200px;
+    background-color: #ffffff;
+    color:black;
+    border:none;
+    margin-top: 20px;
+}
+
+.bomb-image-size{
+    height: 300px;
+    width:300px;
+    margin-top: 30px;
+}
+
+.bomb-text-success{
+    color:#ffffff;
+    background-color: #34eb61;
+}
+
+.bomb-text-fail{
+    color:#eb4034;
+    background-color: #ffffff;
+}
+
+.bomb-countdown-text{
+    color: #ffffff;
+    background-color: transparent;
+    font-size: 20px;
+}
