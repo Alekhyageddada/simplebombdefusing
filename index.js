@@ -1,4 +1,4 @@
-let src1 = "https://content.presentermedia.com/files/clipart/00012000/12231/clock_time_bomb_800_wht.jpg";
+let src1 = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaV9jh6hjgKhhtFacJW4HvTkP7m__D0h7CSx9qDc_mqw&s=10";
 let src2 = "https://www.shutterstock.com/image-photo/closeup-shot-soldier-defusing-bomb-600nw-676000846.jpg"
 let src3 = "https://cdn.vectorstock.com/i/1000v/02/61/time-bomb-on-white-background-vector-8860261.jpg";
 
